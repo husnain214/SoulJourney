@@ -10,10 +10,10 @@ const MainPage = () => {
     <>
       <nav>
         <ul className='mt-5 flex items-center gap-16 justify-end container list-none'>
-          <li><Link className='hover:text-orange-400' to='/'>Home</Link></li>
-          <li><Link className='hover:text-orange-400' to='/detailed-question'>Detailed Question</Link></li>
-          <li><Link className='hover:text-orange-400' to='/showcase'>Showcase</Link></li>
-          <li><Link className='hover:text-orange-400' to='/diary'>Diary</Link></li>
+          <li><Link className='font-bold hover:text-orange-400' to='/'>Home</Link></li>
+          <li><Link className='font-bold hover:text-orange-400' to='/detailed-question'>Detailed Question</Link></li>
+          <li><Link className='font-bold hover:text-orange-400' to='/showcase'>Showcase</Link></li>
+          <li><Link className='font-bold hover:text-orange-400' to='/diary'>Diary</Link></li>
         </ul>
       </nav>
       

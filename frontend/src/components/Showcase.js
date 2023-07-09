@@ -7,12 +7,12 @@ const Showcase = () => {
     <form action='' method="POST">
       <div className="mt-10">
         <label htmlFor=''>What are some ways to find balance between work and life?</label>
-        <textarea className="rounded mt-5 block w-full px-5 py-1 pb-20 text-sm bg-orange-100"></textarea>
+        <textarea className="text-black rounded mt-5 block w-full px-5 py-1 pb-20 text-sm bg-orange-100"></textarea>
       </div>
 
       <div className="mt-6">
         <label htmlFor=''>What are some ways to find balance between work and life?</label>
-        <textarea className="rounded mt-5 block w-full px-5 py-1 pb-20 text-sm bg-orange-100"></textarea>
+        <textarea className="text-black rounded mt-5 block w-full px-5 py-1 pb-20 text-sm bg-orange-100"></textarea>
       </div>
     </form>
   </main>
